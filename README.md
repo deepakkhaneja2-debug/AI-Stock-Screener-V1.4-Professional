@@ -1,1 +1,0 @@
-# AI-Stock-Screener-V1.4-Professional
